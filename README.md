@@ -8,7 +8,7 @@
  data/xxxxcet_data.txt 文本中第一列是姓名，第二列是报考科目
 
 ## 二、成绩查询
-cetcx.py 提供成绩查询服务
+[cetcx.py](cetcx.py) 提供成绩查询服务
 需要读取数据：
  [data/data.xlsx](data/data.xlsx) excel表中第一列填充姓名，第二列填充身份证号
  data/cet_data.txt 文本中第一列是姓名，第二列报考科目
